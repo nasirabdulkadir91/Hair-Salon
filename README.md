@@ -78,4 +78,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
   *rosekairu@gmail.com
   *duncan96ondieki@gmail.com
 
-### License.
+### [License](https://github.com/nasirabdulkadir91/The-pizza-place/blob/master/LICENCE.md)
+MIT (c) 2020 [Abdinassir Abdulkadir](https://github.com/nasirabdulkadir91)
