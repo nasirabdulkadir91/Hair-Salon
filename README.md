@@ -10,7 +10,7 @@ This a web application that allows the user to compare different services offere
 
 #### Link to live site
 
-- [https://JORIM1981.github.io/Hair-Salon/]
+- [https://nasirabdulkadir91.github.io/Hair-Salon/.]
 
 #### Screenshot
 
